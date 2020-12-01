@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display:flex-start;
+}
+
+.add{
+  background-color:rgb(200, 192, 192);
+}
+
+.subtract{
+  background-color:yellow;
+}
+
+.multiply{
+  background-color:green;
+}
+
+.divide{
+  background-color:pink;
+}
